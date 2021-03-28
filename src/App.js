@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import logo from './logo.svg';
+
 import './App.css';
 import { Input } from 'semantic-ui-react';
 import axios from 'axios';
