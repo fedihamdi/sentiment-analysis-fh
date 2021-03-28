@@ -33,7 +33,7 @@ function App() {
         <br></br>
         <br></br><br></br>
 
-        <h2>This is my first attempt using Deep Learning, Flask and ReactJS together in a web application. </h2>
+        <h2>This is my first attempt using Machine Learning, Flask and ReactJS together in a web application. </h2>
         <h3 style={{color: "red"}}>Please use english words.</h3>
         <p>Developed by Fedi Hamdi</p>
     </div>
